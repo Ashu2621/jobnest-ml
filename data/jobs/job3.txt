@@ -1,0 +1,2 @@
+Python Developer
+Skills: Python, Pandas, NumPy, Machine Learning
